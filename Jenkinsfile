@@ -43,4 +43,5 @@ pipeline {
                 sh 'cp target/demo-0.0.1-SNAPSHOT.jar ${JAR_FILE_NAME}'
             }
         }
+    }
 }
